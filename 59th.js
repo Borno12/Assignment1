@@ -5,3 +5,4 @@ const ourDog = {
     "friends": ["everything!"],
     "bark": "bow-wow"
   };
+  delete ourDog.bark;
